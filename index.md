@@ -1,5 +1,5 @@
 # RC car
-This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
+This is my Rc car and the challanges I had with making it and how I did.
 
 | **Aidan** | **East high school** | **coding** | **9th grade** |
 |:--:|:--:|:--:|:--:|
@@ -9,7 +9,7 @@ This will serve as a brief description of your projects. Limit this to three sen
 
 # Final Milestone
 
-My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
+My final milestone was making the car able to respond to the remote. The remote is connected through a few wires and a IR reciver. I had to learn ho to use a bread board which I had never used before. I had to find out how it worked in order to find out if I was makeing it correctly and for My video of the project. It was really exiting to find out how to use it and I am exited to continue to learn how to use different parts in the future and to see where my learning takes me.
 
 [![Final Arduino Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1682461069/video_to_markdown/images/youtube--IPL8EP8abRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IPL8EP8abRU "Final Arduino Project")
 
