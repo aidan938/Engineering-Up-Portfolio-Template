@@ -1,7 +1,7 @@
-# Project Name/Title Goes Here
-This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
+# Rc car
+This is my Rc car and the challanges I had while creating it .
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Aidan** | **East highschool** | **game creator** | **9th** |
 |:--:|:--:|:--:|:--:|
 | Your Name| Current Highschool | Mechanical Engineering | Senior 
 
@@ -15,7 +15,6 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 # Final Schematic Sir Kickington 
 ![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
-
 
 
 # First Milestone
