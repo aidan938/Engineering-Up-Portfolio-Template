@@ -5,8 +5,7 @@ This is my Rc car and the challanges I had with making it and how I did.
 |:--:|:--:|:--:|:--:|
 | Your Name| Current Highschool | Mechanical Engineering | Senior 
 
-![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
-
+![Relevant Name](https://photos.app.goo.gl/MJRry8ergNqfokZ47)]
 # Final Milestone
 
 My final milestone was making the car able to respond to the remote. The remote is connected through a few wires and a IR reciver. I had to learn ho to use a bread board which I had never used before. I had to find out how it worked in order to find out if I was makeing it correctly and for My video of the project. It was really exiting to find out how to use it and I am exited to continue to learn how to use different parts in the future and to see where my learning takes me.
