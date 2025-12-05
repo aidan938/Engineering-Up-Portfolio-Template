@@ -1,5 +1,5 @@
 jimmy
-jimmy is a blue tooth RC-car that I made with many challenges. Jimmy was supposed to be part of the code for moving but I could npt make it work so I decided to name it jimmy.
+jimmy is a blue tooth RC-car that I made with many challenges. Jimmy was supposed to be part of the code for moving but I could not make it work so I decided to name it jimmy.
 
 | **Aidan** | **East high school** | **coding** | **9th grade** |
 |:--:|:--:|:--:|:--:|
